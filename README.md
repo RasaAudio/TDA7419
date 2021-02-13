@@ -7,6 +7,10 @@ Download or Clone the repo and move the files to gCrossover_TDA7149 folder since
 https://github.com/liman324/TDA7419 (included under src folder.)
 
 You will also need the following libraries 
+
 https://github.com/adafruit/Adafruit-GFX-Library
+
 https://github.com/shirriff/Arduino-IRremote
+
 https://github.com/mathertel/RotaryEncoder
+
